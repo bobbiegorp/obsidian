@@ -1,0 +1,1 @@
+Multiple threads of execution that share a memory space. More light-weight compared to [[Multiple processes]].

@@ -1,0 +1,1 @@
+Operating system can handle multiple concurrent processes each with their own memory space. More heavy-weight compared to [[Threading]].

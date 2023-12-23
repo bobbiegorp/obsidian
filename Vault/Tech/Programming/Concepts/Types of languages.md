@@ -1,0 +1,5 @@
+There are many ways to categorize programming languages, but common ways to do this are:
+How is a program run?
+- Compiled: Code for a the language is compiled before runtime by a compiler into an executable that contains machine code and can be run directly by the processor. This means that the code is compiled for a specific target architecture and operating systems. The code is translated into cpu instructions, different cpu architectures use different sets of instructions, therefore compiled code cannot be used across different architectures. (Why not different operating systems?) Examples: [[C|C]], [[Rust|Rust]]
+- Interpreted: An interpreted language is not translated before runtime, but the code is executed step-by-step by another program called the interpreter. The interpreter is therefore architecture/os specific, but the code itself is not. Example [[Python]]
+- Somewhere in between: Many languages use something in between, for example where code is compiled into intermediate byte-code which is then executed by an interpreter. Example: Java, C#

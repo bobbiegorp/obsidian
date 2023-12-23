@@ -1,0 +1,5 @@
+Add a step after the validation layer for derived datasets based on data in the consumption layer of some pipeline. Derived datasets meaning that they are using no other data than that already is present in the consumption layer, so they don't require separate ingestion. 
+
+Example is trusted advisor helper table of resource_ids and asset_ids (to join with the CUR file assets), where asset_id is a column filled by applying specific rules to columns that are in the consumption layer of the TA dataset. 
+
+Right now we would like to do this simply as an additional step in the event based system using python/pandas, but we could also think about having this logic in SQL and creating materialized views. There could still be an additional step in the event-based system, but that simply defines a materialized view in athena and refreshes it. In that case it might be wise to create a specific S3 bucket for the data in these materialized views and we will need to add permissions to that bucket for quicksight and the full OCDS account to access that data.
