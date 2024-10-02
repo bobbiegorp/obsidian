@@ -1,17 +1,17 @@
-today:
-- Check Iceberg
-
-Over the holidays:
-Crawler should be done before secondary source
-Trusted advisor documentation
-Billing distribution
-Refactor OCDS-ng
-Trusted advisor high findings
-Think about rule engine
-Lifecycle policy on query results bucket
 
 Research glue table history
 
+Thinking fast and slow
+team topology
+management myth
+
+
+
+
+PRs:
+https://github.com/Postnl-Production/cloud-economics-data-processing/pull/423
+https://github.com/Postnl-Production/ocds-base-infrastructure/pull/23
+https://github.com/Postnl-Production/ocds-ng/pull/36
 
 
 
