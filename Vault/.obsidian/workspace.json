@@ -266,11 +266,13 @@
               "type": "outline",
               "state": {
                 "file": "PostNL/DevEx Cloud Insights/OCDS/Github webhook ingestion.md",
+                "file": "PostNL/DevEx Cloud Insights/OCDS/Github webhook ingestion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+              "title": "Outline of Github webhook ingestion"
               "title": "Outline of Github webhook ingestion"
             }
           }
@@ -294,15 +296,11 @@
   },
   "active": "6bd0ea162537acdc",
   "lastOpenFiles": [
-    "StateOfCloud/Backend API.md",
-    "StateOfCloud/Feedback and Ideas.md",
-    "StateOfCloud/CDK Nag.md",
-    "StateOfCloud/Authentication & Authorization.md",
-    "StateOfCloud",
     "PostNL/DevEx Cloud Insights/Interview Gary.md",
     "PostNL/DevEx Cloud Insights/Event-based system.md",
     "PostNL/AI CoE/Working notes.md",
     "PostNL/AI CoE/Projects/MCP/Useful commands.md",
+    "PostNL/AI CoE/Projects/MCP/General.md",
     "PostNL/AI CoE/Projects/MCP/General.md",
     "Tech/AI/Transformers/LLMs.md",
     "Productivity.md",
@@ -321,11 +319,13 @@
     "PostNL/Lead role.md",
     "PostNL/AI CoE/Untitled.md",
     "PostNL/AI CoE/Projects",
-    "PostNL/AI CoE/Projects/Devex Chat.md",
-    "PostNL/AI CoE/Motivation.md",
     "PostNL/AI CoE/Projects/MCP",
     "PostNL/DevEx Cloud Insights/OCDS/BillingDB/Distribution.md",
     "PostNL/DevEx Cloud Insights/OCDS/BillingDB/IGD change.md",
+    "PostNL/DevEx Cloud Insights/OCDS/BillingDB/V4.md",
+    "PostNL/DevEx Cloud Insights/OCDS/BillingDB/V3.md",
+    "PostNL/DevEx Cloud Insights/OCDS/BillingDB/Support costs.md",
+    "PostNL/DevEx Cloud Insights/OCDS/BillingDB/Limitations.md",
     "PostNL/DevEx Cloud Insights",
     "Tech/AI/Transformers",
     "Tech/AI",
